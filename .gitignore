@@ -1,0 +1,28 @@
+# 大型資料檔案
+*.zip
+*.tar.gz
+*.h5
+*.hdf5
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 環境設定
+.env
+*.log
